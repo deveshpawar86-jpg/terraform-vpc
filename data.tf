@@ -4,6 +4,5 @@
 data "aws_availability_zones" "available_1" {
   state = "available"
 }
-17-10-2026
-16:25
-saturday
+teraform
+github
