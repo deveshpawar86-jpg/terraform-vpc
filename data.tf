@@ -6,3 +6,5 @@ data "aws_availability_zones" "available_1" {
 }
 devops 
 terminology 
+tab
+control
